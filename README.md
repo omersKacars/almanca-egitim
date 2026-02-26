@@ -58,3 +58,17 @@ Eğitim setini internet bağlantısı olmadan, kendi bilgisayarınızda çalış
 ## 🤝 Katkıda Bulunma
 
 Bu eğitim seti sürekli geliştirilmeye açıktır. Eğer bir yazım hatası fark ederseniz, yeni bir kelime listesi eklemek isterseniz veya tasarımı geliştirmek isterseniz **Pull Request** gönderebilirsiniz. Öğrenme yolculuğunda herkese başarılar dilerim! Viel Erfolg! 🎉
+
+---
+
+## 👨‍💻 Yazılım Eğitimi ve İletişim
+
+<p align="center">
+  <a href="https://leadercoders.com" target="_blank">
+    <img src="https://leadercoders.com/wp-content/uploads/2024/05/logo.png" alt="Leader Coders Logo" width="250">
+  </a>
+</p>
+
+Siz de bu tarz modern uygulamalar geliştirmek, sıfırdan ileri seviyeye **yazılım eğitimi** almak ve profesyonel kariyerinize adım atmak istiyorsanız **Leader Coders** ailesine katılabilirsiniz!
+
+👉 **[Eğitim Ön Kayıt ve Başvuru Formu İçin Tıklayınız](https://leadercoders.com/on-kayit-basvuru-formu/)**
